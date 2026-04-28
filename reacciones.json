@@ -1,0 +1,34 @@
+{
+    "U235": {
+        "tipo": "fisionable",
+        "reacciones": [
+            {
+                "productos": [
+                    "Ba144",
+                    "Kr90"
+                ],
+                "neutrones": 2,
+                "energia": 200,
+                "probabilidad": 0.33
+            },
+            {
+                "productos": [
+                    "Ba141",
+                    "Kr92"
+                ],
+                "neutrones": 3,
+                "energia": 170,
+                "probabilidad": 0.34
+            },
+            {
+                "productos": [
+                    "Zr94",
+                    "Te139"
+                ],
+                "neutrones": 3,
+                "energia": 197,
+                "probabilidad": 0.33
+            }
+        ]
+    }
+}
